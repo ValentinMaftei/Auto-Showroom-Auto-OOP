@@ -1,5 +1,7 @@
 # Proiect-POO3
 
+Proiectul prezentat reprezinta un showroom de masini, masini ce pot fi achizitionate.
+
 *Clase folosite:*
 
 clasa Template Reprezentanta_Auto cu atributele : T (obiect din alta clasa), model, anFabricatie, kilometraj, combustibil, pret
@@ -11,8 +13,6 @@ clasa Autoutilitare cu atributul: suportRemorca
 clasa Meniu (am folosit singletone pattern)
 
 clasele Reclama_Subsistem1, Reclama_Subsistem2, Reclama_Subsistem3 si Reclama_facade (folosite pentru facade pattern)
-
-Proiectul prezentat reprezinta un showroom de masini, masini ce pot fi achizitionate.
 
 Se vor putea cumpara autovehicule (masini mici) si autoutilitare (camioane, dube, etc)
 
