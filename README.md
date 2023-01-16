@@ -30,15 +30,14 @@ Prin intermediul meniului interactiv, ce reprezinta aplicatia firmei, se vor put
      
 ~ calculul pretului in functie de cum va fi cumparata masina (TVA deductibil)
 
-```
-Instrucțiuni meniu interactiv:
+##### Instrucțiuni meniu interactiv:
 
-0 - Inchidere aplicatie showroom.
-1 - Pornire aplicatie
-2 - Afisati masinile disponibile.
-3 - Introduceti model masina
-4 - Cumparati masina aleasa
-```
+###### 0 - Inchidere aplicatie showroom.
+###### 1 - Pornire aplicatie
+###### 2 - Afisati masinile disponibile.
+###### 3 - Introduceti model masina
+###### 4 - Cumparati masina aleasa
+
 
 # Auto Showroom Application
 
@@ -68,12 +67,10 @@ Through the interactive menu, which represents the company's application, the fo
 
 ~ calculating the price depending on how the car will be purchased (VAT deductible)
 
-```
-Interactive menu instructions:
+##### Interactive menu instructions:
 
-0 - Close showroom application.
-1 - Start the application
-2 - Display available cars.
-3 - Enter car model
-4 - Buy the selected car
-```
+###### 0 - Close showroom application.
+###### 1 - Start the application
+###### 2 - Display available cars.
+###### 3 - Enter car model
+
